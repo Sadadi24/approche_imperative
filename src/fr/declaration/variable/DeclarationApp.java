@@ -12,6 +12,7 @@ public class DeclarationApp {
         float valueFloat = 3.14f;
         double valueDouble = 2.71828;
         char valueChar = 'A';
+        
         boolean valueBoolean = true;
         String valueString = "Hello, World!";
 
