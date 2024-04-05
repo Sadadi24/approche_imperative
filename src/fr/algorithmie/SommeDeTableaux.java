@@ -10,7 +10,6 @@ public class SommeDeTableaux {
 		
 		int taille  = 0;
 		
-		
 		if(array1.length< array2.length) {
 			taille = array2.length;
 		}else {
